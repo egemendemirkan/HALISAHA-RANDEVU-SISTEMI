@@ -1,0 +1,2 @@
+kullaniciadi: admin
+sifre: 11211696
